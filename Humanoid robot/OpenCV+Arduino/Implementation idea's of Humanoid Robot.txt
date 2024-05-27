@@ -1,0 +1,7 @@
+Implementation idea's of Humanoid Robot 
+1.With the help of servo motors and voice commands we can make the robot walk,turn,do hand gestures etc.
+2.We can use LED as it's eyes and make it blink as we want.
+3.Using NLP and speech recognition we can make the robot talk to us and respond back.
+4.Robot can have the power of facial recognition using s/w's & h/w's like openCV,esp32 cam module.
+5.Using several sensors our robot can work on the specification of the sensors for example ultrasonic sensor(object detection),flame sensor(flame/heat detection) etc
+6.Using LCD screen and emotion detection algorithms our robot will be albe to read our emotions.
